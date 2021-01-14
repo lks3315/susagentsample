@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "288791135265",
+    "project_id": "skylife-ipota",
+    "storage_bucket": "skylife-ipota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288791135265:android:77f7303ec7852bd21a4f60",
+        "android_client_info": {
+          "package_name": "com.tvstorm.susagent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288791135265-36bsvm41gmgnsa7gs8tev9rkjsvpsakl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLD0b8wXhkAV5HAUKT6MooDEyG4-ggVxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288791135265-36bsvm41gmgnsa7gs8tev9rkjsvpsakl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
